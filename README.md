@@ -8,3 +8,8 @@ This is a project included in the course curriculum of [The Odin Project](http:/
 - Competence in basic structuring of websites
 - Using Image elements in a website
 - Linking different web pages together
+
+---
+
+## Changes
+- CSS'd up the main page a bit.
